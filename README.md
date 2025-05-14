@@ -1,2 +1,2 @@
 # RecBoxDecomp
-this will be a compilable decomp and will be deobfuscated
+this is a decomp and deobfuscated of RecBox server, this decomp may change along the way
