@@ -21,7 +21,7 @@ internal sealed class BannedPlayerCheck
         }
     }
 
-    public static bool IsPlayerBanned(ulong playerId)
+    public static bool IsPlayerBanned(ulong playerId) // some code use this to check banned
     {
         LoadBannedPlayers();
         return BannedPlayerIds.Contains(playerId);
