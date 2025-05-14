@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecBox", "RecBox.csproj", "{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F86E38-B5D7-4653-AFAA-A7FDD20355FF}
+	EndGlobalSection
+EndGlobal
