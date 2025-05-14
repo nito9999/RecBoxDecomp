@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "Bjj3DizHZvQ=",
+  "dgSpecHash": "gXDH070J6x4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox\\RecBox.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\RecBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\memery\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\memery\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebSocketSharp 1.0.3-rc11' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WebSocketSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/RecBox/FileContentIndex/dcf3daf9-1b31-49e9-9120-bfaf90c27c7f.vsidx
+*.vsidx
+/.vs/ProjectEvaluation/recbox.metadata.v9.bin
+/.vs/ProjectEvaluation/recbox.projects.v9.bin
+/.vs/ProjectEvaluation/recbox.metadata.v9.bin
+/.vs/ProjectEvaluation/recbox.metadata.v9.bin
+/.vs/ProjectEvaluation/recbox.strings.v9.bin

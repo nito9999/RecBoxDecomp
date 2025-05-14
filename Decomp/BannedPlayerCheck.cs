@@ -12,7 +12,7 @@ internal sealed class BannedPlayerCheck
         WebClient webClient = new WebClient();
         try
         {
-            string json = webClient.DownloadString("https://raw.githubusercontent.com/Dyno41/RecBox/main/Players.json");
+            string json = webClient.DownloadString("https://raw.githubusercontent.com/nito9999/RecBox/main/Players.json");
             BannedPlayerIds = JsonConvert.DeserializeObject<List<ulong>>(json);
         }
         finally

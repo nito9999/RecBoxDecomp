@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox\\RecBox.csproj": {}
+    "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\RecBox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox\\RecBox.csproj": {
+    "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\RecBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox\\RecBox.csproj",
+        "projectUniqueName": "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\RecBox.csproj",
         "projectName": "RecBox",
-        "projectPath": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox\\RecBox.csproj",
-        "packagesPath": "C:\\Users\\Nito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox\\obj\\",
+        "projectPath": "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\RecBox.csproj",
+        "packagesPath": "C:\\Users\\memery\\.nuget\\packages\\",
+        "outputPath": "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "d:\\VisualStudio\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\memery\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "WebSocketSharp": {
+              "target": "Package",
+              "version": "[1.0.3-rc11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
