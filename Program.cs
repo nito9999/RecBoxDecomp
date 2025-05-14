@@ -3,11 +3,11 @@ using System.Threading;
 
 internal class Program
 {
-    private static void Main(string[] p0)
+    private static void Main(string[] args)
     {
         try
         {
-            Paths.Region = p0[0];
+            Paths.Region = args[0];
         }
         catch
         {
@@ -19,13 +19,11 @@ internal class Program
         }
         Console.Title = "Rec Box";
         Console.WriteLine("Initializing Rec Box...");
-        /*
-        new c000051(new c00007b(Paths.NSPort, "NameServer"));
-        new c000051(new c0000a5(Paths.APIPort, "API"));
-        new c000051(new c00004f(Paths.ImagePort, "Image"));
-        new c000051(new c000030(Paths.CDNPort, "CDN"));
-        new c000090("Notification", Paths.NotificationPort);
-        */
+        new Server_Listener_Base(new Server_NS(Paths.NSPort, "NameServer"));
+        //new Server_Listener_Base(new c0000a5(Paths.APIPort, "API"));
+        //new Server_Listener_Base(new c00004f(Paths.ImagePort, "Image"));
+        new Server_Listener_Base(new Server_CDN(Paths.CDNPort, "CDN"));
+        //new c000090("Notification", Paths.NotificationPort);
         Console.WriteLine("All servers started. Have fun!");
     }
 }
