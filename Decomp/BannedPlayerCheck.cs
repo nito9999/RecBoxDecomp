@@ -5,15 +5,12 @@ using Newtonsoft.Json;
 
 internal sealed class BannedPlayerCheck
 {
-    public static List<ulong> BannedPlayerIds = new List<ulong>();
-
     public static void LoadBannedPlayers()
     {
         WebClient webClient = new WebClient();
         try
         {
-            string json = webClient.DownloadString("https://raw.githubusercontent.com/nito9999/RecBox/main/Players.json");
-            BannedPlayerIds = JsonConvert.DeserializeObject<List<ulong>>(json);
+            BannedPlayerIds = JsonConvert.DeserializeObject<List<ulong>>(webClient.DownloadString("https://raw.githubusercontent.com/nito9999/RecBox/main/Players.json"));
         }
         finally
         {
@@ -26,4 +23,6 @@ internal sealed class BannedPlayerCheck
         LoadBannedPlayers();
         return BannedPlayerIds.Contains(playerId);
     }
+    public static List<ulong> BannedPlayerIds = new List<ulong>();
+
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b788fbccde246ff649802e9ff2f48176d29aeeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc846e14e84fb05853317b3480dc6f32cca433a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

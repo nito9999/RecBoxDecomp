@@ -4,16 +4,14 @@ using System.Runtime.CompilerServices;
 
 public sealed class CodeGenerator
 {
-    private static Random _random = new Random();
-
     public static string GenerateRandomCode(int length)
     {
-        const string charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-        return new string(Enumerable.Repeat(charset, length)
-            .Select(RandomCharSelector.Instance.GetRandomChar)
-            .ToArray());
+        return new string(Enumerable.Repeat<string>("ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789", length).Select(new Func<string, char>(RandomCharSelector.Instance.GetRandomChar)).ToArray<char>());
     }
 
+    private static Random _random = new Random();
+
+    [Serializable]
     private sealed class RandomCharSelector
     {
         public static readonly RandomCharSelector Instance = new RandomCharSelector();
@@ -44,18 +42,11 @@ public sealed class CodeGenerator
         {
             Success = true;
             Message = "WeeklyData";
-            WeeklyData = new WeeklyData();
+            WeeklyData = new Challenge.WeeklyData();
         }
 
         public bool Success { get; set; }
         public string Message { get; set; }
-        public WeeklyData WeeklyData { get; set; }
-    }
-
-    // Assuming this exists somewhere in your project:
-    // Placeholder for external dependency `c000023.c000027`
-    public class WeeklyData
-    {
-        // Your actual WeeklyData class definition should go here
+        public Challenge.WeeklyData WeeklyData { get; set; }
     }
 }
