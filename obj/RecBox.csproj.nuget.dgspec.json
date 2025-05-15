@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\RecBox.csproj": {}
+    "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox.csproj": {}
   },
   "projects": {
-    "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\RecBox.csproj": {
+    "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\RecBox.csproj",
+        "projectUniqueName": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox.csproj",
         "projectName": "RecBox",
-        "projectPath": "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\RecBox.csproj",
-        "packagesPath": "C:\\Users\\memery\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder (140)\\New folder (2)\\New folder\\New folder (2)\\New folder\\RecBoxDecomp\\obj\\",
+        "projectPath": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\RecBox.csproj",
+        "packagesPath": "C:\\Users\\Nito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "d:\\VisualStudio\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\memery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
