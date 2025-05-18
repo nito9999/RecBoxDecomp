@@ -1,0 +1,6 @@
+C:\Users\Nito\Documents\GitHub\RecBoxDecomp\obj\Debug\net8.0\RecBox.csproj.AssemblyReference.cache
+C:\Users\Nito\Documents\GitHub\RecBoxDecomp\obj\Debug\net8.0\RecBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nito\Documents\GitHub\RecBoxDecomp\obj\Debug\net8.0\RecBox.AssemblyInfoInputs.cache
+C:\Users\Nito\Documents\GitHub\RecBoxDecomp\obj\Debug\net8.0\RecBox.AssemblyInfo.cs
+C:\Users\Nito\Documents\GitHub\RecBoxDecomp\obj\Debug\net8.0\RecBox.csproj.CoreCompileInputs.cache
+C:\Users\Nito\Documents\GitHub\RecBoxDecomp\obj\Debug\net8.0\RecBox.sourcelink.json

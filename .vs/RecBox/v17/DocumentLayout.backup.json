@@ -3,44 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\c000057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\c000057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\successmessageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\successmessageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\storefronts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\storefronts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\server_ns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\server_ns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\server_listener_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\server_listener_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\server_cdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\server_cdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\server_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\server_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\ns_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\ns_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\c000075.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\c000075.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\bannedplayercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\bannedplayercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\ns_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\ns_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\save_data_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\save_data_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\server_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\server_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\server_cdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\server_cdn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|c:\\users\\nito\\documents\\github\\recboxdecomp\\decomp\\server_listener_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B81FE0-07B4-4CC1-953C-5E9E69892A86}|RecBox.csproj|solutionrelative:decomp\\server_listener_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +86,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "c000057.cs",
+              "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\c000057.cs",
+              "RelativeDocumentMoniker": "Decomp\\c000057.cs",
+              "ToolTip": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\c000057.cs",
+              "RelativeToolTip": "Decomp\\c000057.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAApwJUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:31:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "c000075.cs",
+              "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\c000075.cs",
+              "RelativeDocumentMoniker": "Decomp\\c000075.cs",
+              "ToolTip": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\c000075.cs",
+              "RelativeToolTip": "Decomp\\c000075.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:31:40.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Challenge.cs",
+              "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Challenge.cs",
+              "RelativeDocumentMoniker": "Decomp\\Challenge.cs",
+              "ToolTip": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Challenge.cs",
+              "RelativeToolTip": "Decomp\\Challenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:31:40.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Equipment.cs",
+              "RelativeDocumentMoniker": "Decomp\\Equipment.cs",
+              "ToolTip": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Equipment.cs",
+              "RelativeToolTip": "Decomp\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:31:39.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreFronts.cs",
+              "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\StoreFronts.cs",
+              "RelativeDocumentMoniker": "Decomp\\StoreFronts.cs",
+              "ToolTip": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\StoreFronts.cs",
+              "RelativeToolTip": "Decomp\\StoreFronts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:31:35.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Save_Data_System.cs",
+              "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Save_Data_System.cs",
+              "RelativeDocumentMoniker": "Decomp\\Save_Data_System.cs",
+              "ToolTip": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Save_Data_System.cs",
+              "RelativeToolTip": "Decomp\\Save_Data_System.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:31:33.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SuccessMessageClass.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\SuccessMessageClass.cs",
               "RelativeDocumentMoniker": "Decomp\\SuccessMessageClass.cs",
@@ -75,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Server_NS.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Server_NS.cs",
               "RelativeDocumentMoniker": "Decomp\\Server_NS.cs",
@@ -88,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Server_Listener_Base.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Server_Listener_Base.cs",
               "RelativeDocumentMoniker": "Decomp\\Server_Listener_Base.cs",
@@ -101,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Server_CDN.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Server_CDN.cs",
               "RelativeDocumentMoniker": "Decomp\\Server_CDN.cs",
@@ -114,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Server_Base.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Server_Base.cs",
               "RelativeDocumentMoniker": "Decomp\\Server_Base.cs",
@@ -127,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Player.cs",
               "RelativeDocumentMoniker": "Decomp\\Player.cs",
@@ -140,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Paths.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\Paths.cs",
               "RelativeDocumentMoniker": "Decomp\\Paths.cs",
@@ -153,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "NS_Data.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\NS_Data.cs",
               "RelativeDocumentMoniker": "Decomp\\NS_Data.cs",
@@ -166,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "BannedPlayerCheck.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Decomp\\BannedPlayerCheck.cs",
               "RelativeDocumentMoniker": "Decomp\\BannedPlayerCheck.cs",
@@ -179,13 +281,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Nito\\Documents\\GitHub\\RecBoxDecomp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T18:48:12.227Z",
               "EditorCaption": ""
